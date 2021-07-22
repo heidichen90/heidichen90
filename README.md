@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<h2> Linkdn </h2>
-<a href="https://linkedin.com/in/yuantichen" target="blank"><img align="center" alt="yuantichen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yuantichen" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
