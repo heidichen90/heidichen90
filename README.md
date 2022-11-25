@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heidi</h1>
-<h3 align="center">A Business Analyst and Front end developer based in London</h3>
+<h3 align="center">A Front end developer based in London</h3>
 
 - 🌱 I’m currently learning **React, Javascript, Front-end, Python**
 
