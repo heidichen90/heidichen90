@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heidi</h1>
 <h3 align="center">A Full Stack developer based in London</h3>
 
-- 🌱 A passionate Full Stack developer. Experienced developing application with **React, Javascript, Springboot, Java**
+- 💻 A passionate Full Stack developer. Experienced developing application with **React, Javascript, Springboot, Java**
 
 - 📝 I regularly write articles on [https://toddypet.medium.com/](https://toddypet.medium.com/)
 
